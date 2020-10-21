@@ -5,7 +5,7 @@
 ### Data Analysis
 
 [World Bank Data](/sample_page)
-<img src="images/Combined_Plots.png?raw=true"/>
+<img src="images/world_bank_plots.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
