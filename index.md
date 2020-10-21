@@ -5,10 +5,10 @@
 ### Data Analysis
 
 [World Bank Exploratory Data Analysis](/sample_page)
-<img src="images/world_bank_plots.png?raw=true"/>
+<img src="images/world_bank_combined_plots.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
