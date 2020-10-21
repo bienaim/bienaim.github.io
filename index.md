@@ -9,11 +9,11 @@
 
 ---
 [Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
-<img src="images/Arrange_Images.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Arranging Images using Greedy Search, Plan & Search, and Binary Search](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Arrange_Images?raw=true"/>
 
 ---
 
