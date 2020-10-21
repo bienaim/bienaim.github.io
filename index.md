@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[World Bank Data](/sample_page)
+[World Bank Exploratory Data Analysis](/sample_page)
 <img src="images/world_bank_plots.png?raw=true"/>
 
 ---
