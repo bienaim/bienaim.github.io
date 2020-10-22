@@ -4,7 +4,7 @@
 
 ### Data Analysis
 
-[World Bank Exploratory Data Analysis](/sample_page)
+[World Bank Travel Data: Exploratory Data Analysis](/sample_page)
 <img src="images/world_bank_combined_plots.png?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 - [Arranging Images using Search](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
