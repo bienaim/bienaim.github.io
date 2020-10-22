@@ -17,13 +17,6 @@
 
 ---
 
-### Other
-
-[Finding Minimum Spanning Trees using Kruskal's algorithm](http://example.com/)
-<img src="images/minimum_spanning_trees.png?raw=true"/>
-
----
-
 ### Presentations
 
 - [Distributed Systems](http://example.com/)
@@ -31,6 +24,13 @@
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 
+
+---
+
+### Other
+
+[Finding Minimum Spanning Trees using Kruskal's algorithm](http://example.com/)
+<img src="images/minimum_spanning_trees.png?raw=true"/>
 
 ---
 
