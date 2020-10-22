@@ -16,6 +16,10 @@
 <img src="images/Arrange_Images.png?raw=true"/>
 
 ---
+[Finding Minimum Spanning Trees](http://example.com/)
+<img src="images/Minimum_Spanning_Trees.png?raw=true"/>
+
+---
 
 ### Presentations
 
