@@ -16,8 +16,8 @@
 <img src="images/Arrange_Images.png?raw=true"/>
 
 ---
-[Finding Minimum Spanning Trees](http://example.com/)
-<img src="images/Minimum_Spanning_Trees.png?raw=true"/>
+[Finding Minimum Spanning Trees using Kruskal's algorithm](http://example.com/)
+<img src="images/minimum_spanning_trees.png?raw=true"/>
 
 ---
 
