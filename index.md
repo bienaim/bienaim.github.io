@@ -2,6 +2,13 @@
 
 ---
 
+### Apps and User Interfaces
+
+- [Photography App for Travellers](http://example.com/)
+- [Customer Relationship App for Sales Teams](http://example.com/)
+
+---
+
 ### Data Analysis
 
 [World Bank Travel Data: Exploratory Data Analysis](/sample_page)
