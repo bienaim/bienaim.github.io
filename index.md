@@ -4,12 +4,12 @@
 
 ### Apps and User Interfaces
 
-[Photography App for Travellers](http://example.com/)
-<img src="images/travel_app_thumbnail.png?raw=true"/>
+[World Bank Travel Data: Exploratory Data Analysis](/sample_page)
+<img src="images/world_bank_combined_plots.png?raw=true"/>
 
 ---
-[Customer Relationship App for Sales Teams](http://example.com/)
-<img src="images/sales_app_thumbnail.png?raw=true"/>  
+[Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
+<img src="images/machine_learning_plots.png?raw=true"/>
 
 ---
 
