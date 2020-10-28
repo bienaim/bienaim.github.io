@@ -6,7 +6,6 @@
 
 [Photography App for Travelers](/sample_page)
 <img src="images/travel_app_thumbnail.png?raw=true"/>
-
 ---
 
 [Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)
