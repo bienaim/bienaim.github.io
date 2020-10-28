@@ -4,11 +4,9 @@
 
 ### Apps and User Interfaces
 
-[Photography App for Travelers](/sample_page)
-<img src="images/travel_app_thumbnail.png?raw=true"/>
+[Photography App for Travelers](/sample_page)<img src="images/travel_app_thumbnail.png?raw=true"/>
 ---
-[Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)
-<img src="images/sales_app_thumbnail.png?raw=true"/>
+[Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)<img src="images/sales_app_thumbnail.png?raw=true"/>
 ---
 
 ### Data Analysis
