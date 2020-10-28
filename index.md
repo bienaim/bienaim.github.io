@@ -15,11 +15,11 @@
 
 ### Data Analysis
 
-[World Bank Travel Data: Exploratory Data Analysis](/sample_page)
+[Photography App for Travelers](/sample_page)
 <img src="images/world_bank_combined_plots.png?raw=true"/>
 
 ---
-[Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
+[Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)
 <img src="images/machine_learning_plots.png?raw=true"/>
 
 ---
