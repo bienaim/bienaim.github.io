@@ -5,7 +5,7 @@
 ### Apps and User Interfaces
 
 [World Bank Travel Data: Exploratory Data Analysis](/sample_page)
-<img src="images/world_bank_combined_plots.png?raw=true"/>
+<img src="images/travel_app_thumbnail.png?raw=true"/>
 
 ---
 [Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
