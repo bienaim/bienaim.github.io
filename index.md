@@ -9,7 +9,7 @@
 
 ---
 [Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
-<img src="images/machine_learning_plots.png?raw=true"/>
+<img src="images/sales_app_thumbnail.png?raw=true"/>
 
 ---
 
