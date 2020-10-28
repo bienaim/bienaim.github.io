@@ -9,7 +9,6 @@
 ---
 [Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)
 <img src="images/sales_app_thumbnail.png?raw=true"/>
-
 ### Data Analysis
 
 [World Bank Travel Data: Exploratory Data Analysis](/sample_page)
