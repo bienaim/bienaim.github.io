@@ -4,22 +4,22 @@
 
 ### Apps and User Interfaces
 
-[World Bank Travel Data: Exploratory Data Analysis](/sample_page)
+[Photography App for Travelers](/sample_page)
 <img src="images/travel_app_thumbnail.png?raw=true"/>
 
 ---
-[Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
+[Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)
 <img src="images/sales_app_thumbnail.png?raw=true"/>
 
 ---
 
 ### Data Analysis
 
-[Photography App for Travelers](/sample_page)
+[World Bank Travel Data: Exploratory Data Analysis](/sample_page)
 <img src="images/world_bank_combined_plots.png?raw=true"/>
 
 ---
-[Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)
+[Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
 <img src="images/machine_learning_plots.png?raw=true"/>
 
 ---
