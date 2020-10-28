@@ -4,9 +4,10 @@
 
 ### Apps and User Interfaces
 
-[Photography App for Travellers](http://example.com/) <img src="images/travel_app_thumbnail.png?raw=true"/> 
-
-[Customer Relationship App for Sales Teams](http://example.com/)  <img src="images/sales_app_thumbnail.png?raw=true"/>  
+[Photography App for Travellers](http://example.com/)
+<img src="images/travel_app_thumbnail.png?raw=true"/> 
+[Customer Relationship App for Sales Teams](http://example.com/)
+<img src="images/sales_app_thumbnail.png?raw=true"/>  
 
 ---
 
