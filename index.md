@@ -13,7 +13,7 @@
 <img src="images/sales_app_thumbnail.png?raw=true"/>
 ### Data Analysis
 
-[World Bank Travel Data: Exploratory Analysis using Data Science](/sample_page)
+[World Bank Travel Data: Exploratory Analysis using Data Science techniques](/sample_page)
 <img src="images/world_bank_combined_plots.png?raw=true"/>
 
 ---
