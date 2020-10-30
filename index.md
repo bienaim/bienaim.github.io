@@ -22,7 +22,7 @@
 
 ---
 [Arranging Images using Greedy Search, Plan & Search, and Binary Search](http://example.com/)
-<img src="images/arrange_images_search.png?raw=true"/>
+<img src="images/arrange_images.png?raw=true"/>
 
 ---
 
