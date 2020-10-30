@@ -14,7 +14,7 @@
 ### Data Analysis
 
 [World Bank Travel Data: Exploratory Analysis using Data Science techniques](/sample_page)
-<img src="images/world_bank_combined_plots.png?raw=true"/>
+<img src="images/combined_plots.png?raw=true"/>
 
 ---
 [Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
