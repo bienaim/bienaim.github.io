@@ -4,7 +4,7 @@
 
 ### Apps and User Interfaces
 
-[Photography App for Travellers](/sample_page)
+[Photography App for Travellers](https://abien1.github.io/photo)
 <img src="images/travel_app_thumbnail.png?raw=true"/>
 
 ---
