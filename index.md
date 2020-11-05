@@ -9,7 +9,7 @@
 
 ---
 
-[Customer Relationship App for Sales Teams](/pdf/sample_presentation.pdf)
+[Customer Relationship App for Sales Teams](https://abien1.github.io/crm)
 <img src="images/sales_app_thumbnail.png?raw=true"/>
 ### Data Analysis
 
