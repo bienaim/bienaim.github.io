@@ -14,7 +14,7 @@
 ### Data Analysis
 
 [World Bank Travel Data: Exploratory Analysis using Data Science techniques](/sample_page)
-<img src="images/combined_WDI_plots.png?raw=true"/>
+<img src="images/world_development_indicators.png?raw=true"/>
 
 ---
 [Trading Strategies using Machine Learning](/pdf/sample_presentation.pdf)
@@ -22,7 +22,7 @@
 
 ---
 [Arranging Images using Greedy Search, Plan & Search, and Binary Search](http://example.com/)
-<img src="images/Arrange_Images.png?raw=true"/>
+<img src="images/arranging_images.png?raw=true"/>
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-### Other
+### Miscellaneous
 
 [Finding Minimum Spanning Trees using Kruskal's algorithm](http://example.com/)
 <img src="images/minimum_spanning_trees.png?raw=true"/>
