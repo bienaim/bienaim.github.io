@@ -4,7 +4,7 @@
 
 **Customer** - Sales Teams 
 
-**Product** - App for managing sales visits, inventory, and sales goals
+**Product** - App for managing sales visits, product details, and sales goals
 
 **Platform** - iOS, Windows
 
