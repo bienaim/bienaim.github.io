@@ -13,7 +13,7 @@
 <img src="images/sales_app_thumbnail.png?raw=true"/>
 ### Data Analysis
 
-[World Bank Travel Data: Exploratory Analysis using Data Science techniques](/sample_page)
+[World Development Indicators Travel Data: Exploratory Analysis using Data Science techniques](/sample_page)
 <img src="images/world_development_indicators.png?raw=true"/>
 
 ---
@@ -21,7 +21,7 @@
 <img src="images/trading_strategies.png?raw=true"/>
 
 ---
-[Arranging Images using Greedy Search, Plan & Search, and Binary Search](http://example.com/)
+[Arranging Images using Greedy Search, and Plan & Search](http://example.com/)
 <img src="images/arranging_images.png?raw=true"/>
 
 ---
