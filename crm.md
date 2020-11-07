@@ -4,19 +4,19 @@
 
 ### Sales App
 
-<img src="images/image_3.png?raw=true"/>
-
----
-
-<img src="images/image_4.png?raw=true"/>
-
----
-
 <img src="images/image_5.png?raw=true"/>
 
 ---
 
 <img src="images/image_6.png?raw=true"/>
+
+---
+
+<img src="images/image_7.png?raw=true"/>
+
+---
+
+<img src="images/image_8.png?raw=true"/>
 
 ---
 
