@@ -1,6 +1,6 @@
 ## Photography App
 
-**Role(s)** - Product Lead, Roadmap developer, UI/UX
+**Role(s)** - Product Lead, Roadmap manager, UI/UX
 
 **Customer** - travellers, photographers 
 
