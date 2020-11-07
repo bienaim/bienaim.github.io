@@ -1,5 +1,10 @@
 ## Sales App
 
+Role(s)   Requirements Gatherer, UI/UX, Developer
+Customer  Sales Teams 
+Product   An app for managing customer visits, product details, inventory, and personal sales acheivement
+Platform  iOS, Windows
+
 ---
 
 [Back to Main portfolio page](https://abien1.github.io)
