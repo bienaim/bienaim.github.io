@@ -13,7 +13,7 @@
 <img src="images/sales_app_thumbnail.png?raw=true"/>
 ### Data Analysis
 
-[World Development Indicators Travel Data: Exploratory Analysis using Data Science techniques](/sample_page)
+[World Travel Data: Exploratory Analysis using Data Science techniques](/sample_page)
 <img src="images/world_development_indicators.png?raw=true"/>
 
 ---
