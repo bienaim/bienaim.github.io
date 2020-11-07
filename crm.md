@@ -1,12 +1,12 @@
 ## Sales App
 
-Role(s)   Requirements Gatherer, UI/UX, Developer
+Role(s) - Requirements Gatherer, UI/UX, Developer
 
-Customer  Sales Teams 
+Customer - Sales Teams 
 
-Product   An app for managing customer visits, product details, inventory, and personal sales acheivement
+Product - An app for managing customer visits, product details, inventory, and personal sales acheivement
 
-Platform  iOS, Windows
+Platform - iOS, Windows
 
 ---
 
