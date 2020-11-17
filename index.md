@@ -34,7 +34,7 @@
 
 ### Presentations
 
-- [Distributed Systems](http://example.com/)
+- [Distributed Systems](pdf/sample_presentation.pdf)
 
 ---
 
