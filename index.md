@@ -35,7 +35,6 @@
 ### Presentations
 
 - [Distributed Systems](http://example.com/)
-- [Arranging Images using Search](http://example.com/)
 
 ---
 
