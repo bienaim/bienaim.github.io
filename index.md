@@ -34,7 +34,7 @@
 
 ### Presentations
 
-- [Distributed Systems](pdf/distributed_systems.pdf)
+[Distributed Systems](pdf/distributed_systems.pdf)
 
 ---
 
