@@ -1,8 +1,7 @@
 title: Abien # your name (or website title) here
 
 description: > #your text below (remove <br> elements if you don't need line breaks)
-  A sample of products and
-  data analysis projects
+Products and data analysis projects
   <br><br>
   
 theme: jekyll-theme-minimal
