@@ -38,5 +38,3 @@
 [Photography](series.md)
 
 ---
-
-
