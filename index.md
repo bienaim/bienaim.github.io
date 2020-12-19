@@ -35,6 +35,6 @@
 
 [Distributed Systems](pdf/distributed_systems.pdf)
 
-[Photography](series.md)
+[Some Photography](series.md)
 
 ---
