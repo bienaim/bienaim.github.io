@@ -34,6 +34,7 @@
 ### Misc.
 
 [Distributed Systems](pdf/distributed_systems.pdf)
+
 [Photography](https://abien1.github.io/series)
 
 ---
