@@ -1,8 +1,8 @@
 title: Abien # your name (or website title) here
 
 description: > #your text below (remove <br> elements if you don't need line breaks)
-A sample of products, data analysis, and miscellaneous projects
-<br><br>
+A sample of products, data analysis,
+<br> and miscellaneous projects
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
