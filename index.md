@@ -21,10 +21,6 @@
 <img src="images/trading_strategies.png?raw=true"/>
 
 ---
-[Arranging Images using Greedy Search and Heuristic-Based Search](https://github.com/abien1/Data-Analysis/tree/main/Classical-AI)
-<img src="images/arranging_images.png?raw=true"/>
-
----
 
 [Finding Minimum Spanning Trees using Kruskal's algorithm](https://github.com/abien1/Data-Analysis/tree/main/Tree-and-Graph-Search)
 <img src="images/minimum_spanning_trees.png?raw=true"/>
