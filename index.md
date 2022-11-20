@@ -31,6 +31,8 @@
 
 [Distributed Systems](pdf/distributed_systems.pdf)
 
+[Operating Systems](pds/home_operating_systems.pdf)
+
 [Photography](series.md)
 
 ---
