@@ -1,40 +1,26 @@
-## Portfolio
-
----
-
 ### Products
 
-[Photography App for Travellers](https://abien1.github.io/photo)
+[Photography App for Travellers](https://bienaim.github.io/photo)
 <img src="images/travel_app_thumbnail.png?raw=true"/>
 
 ---
 
-[Customer Relationship App for Sales Teams](https://abien1.github.io/crm)
+[Customer Relationship App for Sales Teams](https://bienaim.github.io/crm)
 <img src="images/sales_app_thumbnail.png?raw=true"/>
+
 ### Data Analysis
 
-[World Travel Data: Exploratory Analysis using Data Science techniques](https://github.com/abien1/Data-Analysis/tree/main/Data-Science)
-<img src="images/world_development_indicators.png?raw=true"/>
-
----
-[Trading Strategies using Machine Learning](https://github.com/abien1/Data-Analysis/tree/main/Machine-Learning)
+[Trading Strategies using Machine Learning](https://github.com/bienaim/Data-Analysis/tree/main/Machine-Learning)
 <img src="images/trading_strategies.png?raw=true"/>
 
 ---
 
-[Finding Minimum Spanning Trees using Kruskal's algorithm](https://github.com/abien1/Data-Analysis/tree/main/Tree-and-Graph-Search)
-<img src="images/minimum_spanning_trees.png?raw=true"/>
+### Networks
 
----
-
-### Misc.
+[Distributed Systems Slides](pdf/distributed_systems_slides.pdf)
 
 [Distributed Systems](pdf/distributed_systems.pdf)
 
-[Operating Systems](pdf/home_operating_systems.pdf)
-
-[Photography](series.md)
+<img src="images/structured_peer_to_peer_network.png?raw=true"/>
 
 ---
-
-
