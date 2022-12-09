@@ -1,4 +1,4 @@
-### Mobile, Web, Desktop Products
+### Mobile and Desktop Products
 
 [Photography App for Travelers](https://bienaim.github.io/photo)
 <img src="images/travel_app_thumbnail.png?raw=true"/>
