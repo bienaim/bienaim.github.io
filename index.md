@@ -1,20 +1,20 @@
 ### Mobile and Desktop Products
-
+---
 [Photography App for Travelers](https://bienaim.github.io/photo)
 <img src="images/travel_app_thumbnail.png?raw=true"/>
 
----
+
 
 [Customer Relationship App for Sales Teams](https://bienaim.github.io/crm)
 <img src="images/sales_app_thumbnail.png?raw=true"/>
 
 ### Data Analysis
-
+---
 [Trading Strategies using Machine Learning](https://github.com/bienaim/Data-Analysis/tree/main/Machine-Learning)
 <img src="images/trading_strategies.png?raw=true"/>
 
 ### Networks
-
+---
 [Distributed Systems Slides](pdf/distributed_systems_slides.pdf)
 
 [Distributed Systems](pdf/distributed_systems.pdf)
