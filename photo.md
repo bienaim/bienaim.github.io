@@ -2,7 +2,7 @@
 
 **Role(s)** - Product Lead, Roadmap manager, UI/UX
 
-**Customer** - travellers, photographers 
+**Customer** - travelers, photographers 
 
 **Product** - App for geotagging and sharing photography
 
